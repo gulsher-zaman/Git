@@ -6,7 +6,8 @@ ubuntu@GULSHER:~/Gul$ git commit -m "gitignore"
 ubuntu@GULSHER:~/Gul$ git status
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
+  (use "git push" to publish your huuu local commits)
+  kdhf
 
 nothing to commit, working tree clean
 ubuntu@GULSHER:~/Gul$ 
