@@ -1,0 +1,12 @@
+ubuntu@GULSHER:~/Gul$ git add .gitignore
+ubuntu@GULSHER:~/Gul$ git commit -m "gitignore"
+[master b2df739] gitignore
+ 1 file changed, 3 insertions(+)
+ create mode 100644 .gitignore
+ubuntu@GULSHER:~/Gul$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+ubuntu@GULSHER:~/Gul$ 
