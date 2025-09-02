@@ -1,0 +1,24 @@
+# Dummy Python code example
+
+def greet(name):
+    return f"Hello, {name}!"
+
+def add_numbers(a, b):
+    return a + b
+
+# Variables
+name = "Alice"
+x = 10
+y = 5
+
+# Function calls
+message = greet(name)
+sum_result = add_numbers(x, y)
+
+# Print results
+print(message)
+print(f"The sum of {x} and {y} is {sum_result}")
+
+# Loop
+for i in range(3):
+    print(f"Loop iteration {i+1}")
