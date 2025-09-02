@@ -10,7 +10,8 @@ def add_numbers(a, b):
 name = "Alice"
 x = 10
 y = 5
-
+z = 0
+ys (pts"kl)
 # Function calls
 message = greet(name)
 sum_result = add_numbers(x, y)
